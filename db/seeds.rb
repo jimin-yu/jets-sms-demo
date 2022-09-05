@@ -1,0 +1,11 @@
+
+BaseballTeam.create(name: 'kt wiz', year: '2013', rank: 4)
+BaseballTeam.create(name: 'doosan bears', year: '1982', rank: 9)
+BaseballTeam.create(name: 'samsung lions', year: '1982', rank: 8)
+BaseballTeam.create(name: 'lg twins', year: '1982', rank: 2)
+BaseballTeam.create(name: 'kiwoon heroes', year: '2008', rank: 3)
+BaseballTeam.create(name: 'ssg landers', year: '2021', rank: 1)
+BaseballTeam.create(name: 'nc dinos', year: '2011', rank: 7)
+BaseballTeam.create(name: 'lotte giants', year: '1982', rank: 6)
+BaseballTeam.create(name: 'kia tigers', year: '1982', rank: 5)
+BaseballTeam.create(name: 'hanwha eagles', year: '1986', rank: 10)
